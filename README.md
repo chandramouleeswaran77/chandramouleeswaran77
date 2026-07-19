@@ -65,8 +65,7 @@
 - Contributed to the admin verification workflow with debugging and testing support
 
 #### 🤝 [Industry-Relation-Programe](https://github.com/chandramouleeswaran77/Industry-Relation-Programe)
-#### 🤝 [Industry-Relation-Programe](https://github.com/chandramouleeswaran77/Industry-Relation-Progr
-ame)
+
 **MERN Stack (React, Node.js, Express, MongoDB) · Google OAuth + JWT**
 > A full-stack platform for colleges to manage industry expert visits, workshops, and seminars.
 - Google OAuth-based authentication with role-based access (Admin & Coordinator)
