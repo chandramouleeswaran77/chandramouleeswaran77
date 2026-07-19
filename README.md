@@ -65,10 +65,17 @@
 - Contributed to the admin verification workflow with debugging and testing support
 
 #### 🤝 [Industry-Relation-Programe](https://github.com/chandramouleeswaran77/Industry-Relation-Programe)
-**JavaScript**
-> Application built to support and streamline industry–institute collaboration activities.
+#### 🤝 [Industry-Relation-Programe](https://github.com/chandramouleeswaran77/Industry-Relation-Progr
+ame)
+**MERN Stack (React, Node.js, Express, MongoDB) · Google OAuth + JWT**
+> A full-stack platform for colleges to manage industry expert visits, workshops, and seminars.
+- Google OAuth-based authentication with role-based access (Admin & Coordinator)
+- Expert management with CRUD operations and profile images
+- Event scheduling and tracking for industry visits
+- Feedback system to rate and review experts
+- Analytics dashboard with activity logs and CSV/PDF export
 
-> 💡 Add a proper README to each project (what it does, tech used, setup instructions, and a screenshot/demo GIF) — this is one of the biggest things recruiters check.
+
 
 ---
 
