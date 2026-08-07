@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year **B.Tech in Artificial Intelligence and Machine Learning**, Bannari Amman Institute of Technology (2022–2026) — CGPA **8.11**
+- 🎓 **B.Tech in Artificial Intelligence and Machine Learning**, Bannari Amman Institute of Technology (2022–2026) — CGPA **8.11**
 - 💼 Looking for **entry-level / fresher roles** in Software Development, Full-Stack Engineering, or AI/ML
 - 🛠️ Experienced in **Python, backend engineering, and REST API integration**
 - 🤖 Applied **Generative AI (Gemini API)** to automate real workflows (resume scoring, screening)
