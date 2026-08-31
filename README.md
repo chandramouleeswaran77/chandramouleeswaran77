@@ -86,12 +86,6 @@
 
 ---
 
-### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandramouleeswaran77&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandramouleeswaran77&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=chandramouleeswaran77&theme=radical)
-
----
 
 <p align="center"><i>Thanks for visiting my profile! Open to internships and fresher roles — feel free to reach out. ⭐</i></p>
